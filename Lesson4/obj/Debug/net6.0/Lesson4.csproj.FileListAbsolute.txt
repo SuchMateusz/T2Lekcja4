@@ -1,0 +1,15 @@
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lesson4\Lesson4\bin\Debug\net6.0\Lesson4.exe
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lesson4\Lesson4\bin\Debug\net6.0\Lesson4.deps.json
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lesson4\Lesson4\bin\Debug\net6.0\Lesson4.runtimeconfig.json
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lesson4\Lesson4\bin\Debug\net6.0\Lesson4.dll
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lesson4\Lesson4\bin\Debug\net6.0\Lesson4.pdb
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lesson4\Lesson4\obj\Debug\net6.0\Lesson4.csproj.AssemblyReference.cache
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lesson4\Lesson4\obj\Debug\net6.0\Lesson4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lesson4\Lesson4\obj\Debug\net6.0\Lesson4.AssemblyInfoInputs.cache
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lesson4\Lesson4\obj\Debug\net6.0\Lesson4.AssemblyInfo.cs
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lesson4\Lesson4\obj\Debug\net6.0\Lesson4.csproj.CoreCompileInputs.cache
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lesson4\Lesson4\obj\Debug\net6.0\Lesson4.dll
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lesson4\Lesson4\obj\Debug\net6.0\refint\Lesson4.dll
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lesson4\Lesson4\obj\Debug\net6.0\Lesson4.pdb
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lesson4\Lesson4\obj\Debug\net6.0\Lesson4.genruntimeconfig.cache
+D:\Programowanie\Szkoła DotNETa\Tydzień2\Lesson4\Lesson4\obj\Debug\net6.0\ref\Lesson4.dll
