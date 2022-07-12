@@ -11,8 +11,8 @@ namespace Lesson4
             string secondName;
             int age;
             char gender;
-            int peselNumber;
-            int employNumber;
+            string peselNumber;
+            string employNumber;
 
             //Zadanie 2
             char zm1 = 'a';
@@ -44,7 +44,9 @@ namespace Lesson4
             Console.WriteLine("Podaj płeć: m (męzczyzna), k (kobieta)");
             gender = char.Parse(Console.ReadLine());
             Console.WriteLine("Podaj numer pesel");
-            peselNumber = Int32.Parse(Console.ReadLine());
+            peselNumber = Console.ReadLine();
+            Console.WriteLine("Podaj numer pracowniczy");
+            employNumber = Console.ReadLine();
             Console.WriteLine("Podaj wzrost: ");
             double height = double.Parse(Console.ReadLine());
             Console.WriteLine("Podaj wage: ");
